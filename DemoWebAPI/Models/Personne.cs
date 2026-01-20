@@ -1,4 +1,4 @@
-﻿namespace DemoWebAPI;
+﻿namespace DemoWebAPI.Models;
 
 public class Personne
 {

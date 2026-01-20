@@ -1,4 +1,5 @@
 ﻿using DemoWebAPI.DTO;
+using DemoWebAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DemoWebAPI.Controllers;
